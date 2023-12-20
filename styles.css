@@ -131,9 +131,7 @@ body
 {
     height: 529px;
     width: 190px;
-    animation: rotate 10s linear infinite;
-    
-   
+
 }
 
 .main-text
@@ -144,7 +142,7 @@ body
     height: 276px;
     text-align: center;
     margin: 145px;
-    color: rgb(99, 118, 118);
+    color: rgb(255, 255, 255);
     padding-top: 276px;
 
 
